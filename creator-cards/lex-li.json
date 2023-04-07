@@ -1,0 +1,48 @@
+{
+  "name": "Lex Li",
+  "countryCode": "ca",
+  "slogan": "",
+  "type": "CREATOR",
+  "bio": "Engineering manager, entrepreneur, developer, podcaster, blogger, author, and advocate",
+  "tags": ".NET, C#, ASP.NET, IIS, Windows, macOS, Linux, VS Code",
+  "socials": {
+    "youtube": "",
+    "linkedin": "https://www.linkedin.com/in/lextm",
+    "twitter": "https://twitter.com/lextm",
+    "github": "https://github.com/lextm",
+    "mastodon": "",
+    "sessionize": "",
+    "other": ""
+  },
+  "channels": [
+    {
+      "name": "Blog",
+      "url": "https://halfblood.pro"
+    }
+  ],
+  "feeds": [
+    // Please only one if multiple types are available with the same content
+    {
+      "type": "LinkTagRssType",
+      "url": "https://halfblood.pro/feed.xml"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Obfuscar",
+      "url": "https://github.com/obfuscar/obfuscar"
+    },
+    {
+      "name": "Jexus Manager",
+      "url": "https://github.com/jexuswebserver/JexusManager"
+    },
+    {
+      "name": "#SNMP Library",
+      "url": "https://github.com/lextudio/sharpsnmplib"
+    },
+    {
+      "name": "DockPanel Suite",
+      "url": "https://github.com/dockpanelsuite/dockpanelsuite"
+    }
+  ]
+}
